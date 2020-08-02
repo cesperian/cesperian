@@ -18,19 +18,19 @@ _(postscript)_
 
 Since GitHub suggested including the following info, far be it from me to turn down an open invitation for self-promotion... 
 
-_I’m currently working on ..._
+_I’m currently working on:_ 
 A Netflix clone for my favorite movie critic, (reviews instead of video). You don't realize just how much detail is in a site until you attempt to replicate it. 
 
-_I’m currently learning_
+_I’m currently learning:_ 
 NGRx, advanced Angular Routing and Security.
 
-_I’m looking to collaborate on_
+_I’m looking to collaborate on:_ 
 Full stack work, pro bono, for a charitable organization.
 
-_Ask me about_
+_Ask me about:_ 
 Where on the planet I happen to be at the moment.
 
-_How to reach me_
+_How to reach me:_ 
 Gmail. Although Pony Express may be more effective when i'm out in some of the more [remote and wonderful](https://en.wikipedia.org/wiki/Havasu_Falls) parts of the world.
 
 
