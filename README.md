@@ -22,7 +22,7 @@ _I’m currently working on:_
 A Netflix clone for my favorite movie critic, (reviews instead of video). You don't realize just how much detail is in a site until you attempt to replicate it. 
 
 _I’m currently learning:_ 
-Postgraphile (Postgres-based GraphQL), advanced Angular Routing and Security.
+Postgraphile (Postgres-based GraphQL) and advanced Angular Routing.
 
 _I recently started using:_
 NgRx for Angular state management, Ionic for mobile app dev. 
