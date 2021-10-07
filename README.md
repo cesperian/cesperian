@@ -19,16 +19,16 @@ _(postscript)_
 Since GitHub suggested including the following info, far be it from me to turn down an open invitation for self-promotion... 
 
 _I’m currently working on:_ 
-A Netflix clone for my favorite movie critic, (reviews instead of video). You don't realize just how much detail is in a site until you attempt to replicate it. 
+An trainer/client hybrid app and management software for HIIT-type gyms.   
 
 _I’m currently learning:_ 
-Postgraphile (Postgres-based GraphQL).
+Android Studio.
 
 _I recently started using:_
-NgRx for Angular state management, Ionic for mobile app dev. 
+Ionic for mobile app dev. 
 
 _I’m looking to collaborate on:_ 
-Full stack work, pro bono, for a charitable organization.
+Anything genuinely interesting. Double bonus if for a non-profit.
 
 _Ask me about:_ 
 Where on the planet I happen to be at the moment.
