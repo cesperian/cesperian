@@ -34,6 +34,6 @@ _Ask me about:_
 Where on the planet I happen to be at the moment.
 
 _How to reach me:_ 
-Gmail. Although Pony Express may be more effective when i'm in some of the more [remote bits.](https://en.wikipedia.org/wiki/Havasu_Falls).
+[admin@5pow2.com](mailto:admin@5pow2.com). Although Pony Express may be more effective when i'm in some of the more [remote bits.](https://en.wikipedia.org/wiki/Havasu_Falls).
 
 
