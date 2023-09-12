@@ -19,13 +19,7 @@ _(postscript)_
 Since GitHub suggested including the following info, far be it from me to turn down an open invitation for self-promotion... 
 
 _I’m currently working on:_ 
-An trainer/client hybrid app and management software for HIIT-type gyms.   
-
-_I’m currently learning:_ 
-Android Studio.
-
-_I recently started using:_
-Ionic for mobile app dev. 
+A client management and programming app for personal trainers.
 
 _I’m looking to collaborate on:_ 
 Anything genuinely interesting. Double bonus if for a non-profit.
